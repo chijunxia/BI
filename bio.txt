@@ -1,0 +1,5 @@
+﻿1. 生物信息学  https://baike.baidu.com/item/生物信息学
+2. RNA        https://baike.baidu.com/item/核糖核酸/541373?fromtitle=rna&fromid=98142&fr=aladdin
+3. DNA        https://baike.baidu.com/item/脱氧核糖核酸/78250?fromtitle=dna&fromid=98123&fr=aladdin
+4. microRNA   https://baike.baidu.com/item/micro%20RNA/3683223?fromtitle=%E5%B0%8F%E5%88%86%E5%AD%90RNA&fromid=167551&fr=aladdin
+5. 蛋白质      https://baike.baidu.com/item/蛋白质/309120?fr=aladdin
